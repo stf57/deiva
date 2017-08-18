@@ -1,0 +1,10 @@
+{
+	"resources": [
+		{
+			"name": "index",
+			"path": "./index.tsv",
+			"hide": true
+		},
+		"./FAILED_vs_OK_results_deseq2.tsv"
+	]
+}

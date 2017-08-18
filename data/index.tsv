@@ -1,0 +1,12 @@
+filename	name	gene
+FAILED_vs_OK_results_deseq2.tsv	Failed vs OK	ALB NANOG ZFP42 POU5F1 DNMT3B SOX2 PODXL MYC MYCN LIN28A COL2A1 COL9A1
+s1P1_FAILED_vs_iPSC_CONTROL_results_deseq2.tsv	Step 1 Protocol 1 Failed vs Control iPSC	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S3P1_FAILED_vs_iPSC_CONTROL_results_deseq2.tsv	Step 3 Protocol 1 Failed vs Control iPSC	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S3P1_OK_vs_iPSC_CONTROL_results_deseq2.tsv	Step 3 Protocol 1 OK vs Control iPSC	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S4P1_FAILED_vs_iPSC_CONTROL_results_deseq2.tsv	Step 4 Protocol 1 Failed vs Control iPSC	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S4P1_OK_vs_iPSC_CONTROL_results_deseq2.tsv	Step 4 Protocol 1 OK vs Control iPSC	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S4P1_OK_vs_S3P1_OK_results_deseq2.tsv	Step 4 Protocol 1 OK vs Step 3 Protocol 1 OK	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S4P2_FAILED_vs_iPSC_CONTROL_results_deseq2.tsv	Step 4 Protocol 2 Failed vs Control iPSC	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S4P2_OK_vs_iPSC_CONTROL_results_deseq2.tsv	Step 4 Protocol 2 OK vs Control iPSC	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+S4P2_OK_vs_S4P1_OK_results_deseq2.tsv	Step 4 Protocol 2 OK vs Step 4 Protocol 1 OK	Alb Nanog Zfp42 Pou5f1 Dnmt3b Sox2 Podxl Myc Mycn Lin28a Col2a1 Col9a1
+
