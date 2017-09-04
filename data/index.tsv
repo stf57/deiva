@@ -10,3 +10,4 @@ condition_S4P2_FAILED_vs_iPSC_CONTROL_results_deseq2.tsv	Step 4 Protocol 2 Faile
 condition_S4P2_OK_vs_iPSC_CONTROL_results_deseq2.tsv	Step 4 Protocol 2 OK vs Control iPSC	ALB NANOG ZFP42 POU5F1 DNMT3B SOX2 PODXL MYC LIN28A COL2A1
 protocol_2_1_results_deseq2.tsv	S4P2_OK vs S4P1_OK	ALB NANOG ZFP42 POU5F1 DNMT3B SOX2 PODXL MYC LIN28A COL2A1
 
+
